@@ -1,0 +1,1 @@
+python3 NVD.py -p cpe:2.3:o:microsoft:windows_10:1607
